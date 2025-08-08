@@ -1,0 +1,9 @@
+streamlit
+requests
+python-dotenv
+folium
+streamlit-folium
+pandas
+openmeteo-requests
+huggingface_hub
+wikipedia
